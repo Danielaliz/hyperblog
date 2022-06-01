@@ -2,3 +2,5 @@ Esta es la historia de Daniela Liz aprendiendo Git
 de ruta de para ser Data scientist
 y su meta de ser una mujer en tecnologia 
 viajando por el mundo
+
+Hoy hablaremos de su vida
